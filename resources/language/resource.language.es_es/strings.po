@@ -38,15 +38,15 @@ msgstr "Buscar por nombre"
 
 msgctxt "#30005"
 msgid "Search Current Track playing Station"
-msgstr "Buscar emisoras que reproducen una canción"
+msgstr "Buscar emisoras que reproducen un tema"
 
 msgctxt "#30010"
 msgid "Add to 'My Stations'"
-msgstr "Añadir a 'Mis emisoras'"
+msgstr "Añadir a "Mis emisoras""
 
 msgctxt "#30011"
 msgid "Remove from 'My Stations'"
-msgstr "Quitar de 'Mis emisoras'"
+msgstr "Eliminar de "Mis emisoras""
 
 msgctxt "#30100"
 msgid "Show Subgenres"
@@ -62,11 +62,11 @@ msgstr "Mostrar bitrate junto al nombre"
 
 msgctxt "#30103"
 msgid "Choose a random server (Don't ask)"
-msgstr "Elegir un servidor aleatorio (No preguntar)"
+msgstr "Seleccionar un servidor al azar (No preguntar)"
 
 msgctxt "#30104"
 msgid "Filter stations by minium Bitrate"
-msgstr "Filtrar emisoras por Bitrate"
+msgstr "Filtrar emisoras por Bitrate mínimo"
 
 msgctxt "#30110"
 msgid "Minimum Bitrate"
@@ -90,5 +90,5 @@ msgstr "192 kbit/s"
 
 msgctxt "#30200"
 msgid "Network Error"
-msgstr "Error en la conexión"
+msgstr "Error de conexión"
 
